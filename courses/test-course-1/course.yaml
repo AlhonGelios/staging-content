@@ -1,11 +1,14 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/AlhonGelios/content-schema/refs/heads/main/schemas/course.schema.json
 id: "cm1vxbz3o0000t4vvc3azc8dd"
-title: "Название курсаааа"
+title: "Course tets 1"
 description: |
-  ## Описание курса в формате Markdown:
+  *Course title*
+
+  > Some content hello world
+
   - Пункт 1
   - Пункт 2
   - Пункт 3
-  - Пункт [4](https://google.com)
+  - [Пункт 4](https://google.com)
 lessons:
   - "lesson-1"
